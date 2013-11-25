@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">helloandroid</string>
+    <string name="label_hello">This is the hello world label</string>
+    <string name="button_label">Click me</string>
+    <string name="input_hint">input</string>
+    <string name="counter_label">numeroclicks</string>
+    
+</resources>
